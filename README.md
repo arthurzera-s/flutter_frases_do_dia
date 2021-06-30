@@ -1,6 +1,6 @@
 # frases_do_dia
 
-A new Flutter project.
+Uma aplicação que gera frase de forma randomica a cada vez que o botão é clicado.
 
 ## Getting Started
 
